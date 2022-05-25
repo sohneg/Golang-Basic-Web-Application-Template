@@ -14,5 +14,5 @@
 
 ## How to use it?
 
-Just initialise it and start to code
+Just initialise it in the root and start to code
 - go mod init example/projectname
